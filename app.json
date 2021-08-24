@@ -1,7 +1,7 @@
 {
     "name": "IF-XTW",
     "description": "IF-XTW",
-    "keywords": ["xray vmess vless trojan shadowsocks socks tor"],
+    "keywords": ["vmess vless trojan shadowsocks socks"],
     "env": {
         "AA": {
             "description": "初阶用户只需修改以下AUUID点击页面最后的Deploy app按钮即可开始部署",
