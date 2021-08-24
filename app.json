@@ -32,7 +32,6 @@
             "value": "https://raw.githubusercontent.com/DaoChen6/IF-XTW/master/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/DaoChen6/IF-XTW",
-    "repository": "https://github.com/DaoChen6/IF-XTW",
+    "repository": "",
     "stack": "container"
 }
