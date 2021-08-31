@@ -13,7 +13,7 @@
 
 3）若出现`We couldn't deploy your app because the source code violates the Salesforce Acceptable Use and External-Facing Services Policy.`提示，则返回仓库，>`Setting`>`Repository name`修改仓库名。
 
-4）然后修改app.json文件中的`name`、`description`、`website`、`repository`值
+4）然后修改app.json文件中的`name`、`description`值
 
 5）再修改`Deploy to Heroku`按键指向地址为自己仓库地址，重复`2）`的操作
 
