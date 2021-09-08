@@ -5,6 +5,7 @@
 ### 已不部署Trojan-Go、Shadowsocks，有兴趣的大佬可以推pr，本人也在尝试。
 
 ## 服务端创建操作流程 
+0）给本项目个stars
 
 1）将本项目fork至自己仓库修改`Deploy to Heroku`按键指向地址为自己仓库地址
 
