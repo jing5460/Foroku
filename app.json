@@ -1,6 +1,6 @@
 {
-    "name": "Yizhiyu",
-    "description": "Yizhiyu",
+    "name": "Yi-zhiyu",
+    "description": "Yi-zhiyu",
     "keywords": ["vmess vless trojan shadowsocks socks"],
     "env": {
         "AA": {
